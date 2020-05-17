@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81dafe95-803f-4960-820c-cec035bcdcc4" name="Default Changelist" comment="" />
+    <list default="true" id="81dafe95-803f-4960-820c-cec035bcdcc4" name="Default Changelist" comment="Merge branch 'master' of https://github.com/ergonomicsav/newtest&#10;&#10;# Conflicts:&#10;#&#9;.gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,6 +161,7 @@
       <workItem from="1589640631414" duration="20877000" />
       <workItem from="1589691980418" duration="6373000" />
       <workItem from="1589699104322" duration="15464000" />
+      <workItem from="1589716172396" duration="1969000" />
     </task>
     <servers />
   </component>
@@ -173,6 +177,10 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="693" y="284" width="526" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1589696219563" />
+    <state x="439" y="75" width="1034" height="898" key="CommitChangelistDialog2" timestamp="1589718551067">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="439" y="75" width="1034" height="898" key="CommitChangelistDialog2/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1589718551067" />
     <state x="486" y="161" key="SettingsEditor" timestamp="1589714254540">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
